@@ -1,0 +1,18 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>Submit a request</pattern>
+        <template>
+            Ok, lets get started!
+        </template>
+    </category>
+    
+    <category>
+        <pattern>Check a status</pattern>
+        <template>
+            What status would you like to check?
+        </template>
+    </category>
+    
+</aiml>

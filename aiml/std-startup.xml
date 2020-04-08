@@ -1,0 +1,9 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>Help</pattern>
+        <template>
+            <learn>introductions.aiml</learn>
+            Hello! I am the HonestChain Chatbot! What can I help you with today?
+        </template>
+    </category>
+</aiml>
